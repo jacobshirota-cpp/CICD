@@ -1,4 +1,4 @@
-# This is the 2nd test of the GitHub Webhook
+# This is the 3rd test of the GitHub Webhook
 
 def add(a, b):
     return a + b
